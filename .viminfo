@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1744788424,,"wq!"
 :wq
 |2,0,1744724728,,"wq"
 
@@ -25,22 +27,39 @@
 # Registers:
 
 # File marks:
-'0  5  12  ~/helloworld
-|4,48,5,12,1744724728,"~/helloworld"
-'1  1  1  ~/helloworld
-|4,49,1,1,1744723208,"~/helloworld"
+'0  1  0  ~/calculator.sh
+|4,48,1,0,1744788424,"~/calculator.sh"
+'1  5  12  ~/helloworld
+|4,49,5,12,1744724728,"~/helloworld"
 '2  1  1  ~/helloworld
 |4,50,1,1,1744723208,"~/helloworld"
+'3  1  1  ~/helloworld
+|4,51,1,1,1744723208,"~/helloworld"
 
 # Jumplist (newest first):
+-'  1  0  ~/calculator.sh
+|4,39,1,0,1744788424,"~/calculator.sh"
+-'  5  12  ~/helloworld
+|4,39,5,12,1744724728,"~/helloworld"
 -'  5  12  ~/helloworld
 |4,39,5,12,1744724728,"~/helloworld"
 -'  1  1  ~/helloworld
 |4,39,1,1,1744724717,"~/helloworld"
 -'  1  1  ~/helloworld
+|4,39,1,1,1744724717,"~/helloworld"
+-'  1  1  ~/helloworld
+|4,39,1,1,1744723208,"~/helloworld"
+-'  1  1  ~/helloworld
 |4,39,1,1,1744723208,"~/helloworld"
 
 # History of marks within files (newest to oldest):
+
+> ~/calculator.sh
+	*	1744788421	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/helloworld
 	*	1744724726	0
