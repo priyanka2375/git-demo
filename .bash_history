@@ -71,3 +71,14 @@ history
 git add .
 git commit -m "added application folder"
 git push -u origin main
+git status
+vi application 
+git add .
+git commit -m "added context to the file "
+git status
+git history
+git log
+git history
+git --help
+history
+git push -u origin main
