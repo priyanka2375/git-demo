@@ -65,3 +65,9 @@ vi calculator.sh
 rm -rf calculator.sh 
 ls -la
 touch application
+git status
+git add .
+history
+git add .
+git commit -m "added application folder"
+git push -u origin main
